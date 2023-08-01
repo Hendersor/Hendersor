@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 - 🔭 I’m currently working on Yard Sale
 
-- 🌱 I’m currently learning **React and Next**
+- 🌱 I’m currently learning **Typescript and React**
 
 - 👨‍💻 All of my projects are available at [https://www.montejodev.com/](https://www.montejodev.com/)
 
