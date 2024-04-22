@@ -9,5 +9,4 @@ I thoroughly enjoy working in teams, where transparency, tenacity, and assertive
 - ⚛️ React, Webpack, Vite
 - 💅 SASS, 🌀 Tailwind CSS
 - 🌐 APIs, REST
-- 🖥️ Node.js, Express
-- 🐘 PostgreSQL
+
